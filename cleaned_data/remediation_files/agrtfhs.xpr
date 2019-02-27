@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="19.0">
     <meta>
-        <filters directoryPatterns="" filePatterns="tfhs.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <filters directoryPatterns="" filePatterns="agrtfhs.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized version="19.0" xml:space="preserve">
                 <serializableOrderedMap>
@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tfhs_minimal.xml</String>
+                                    <String>modscollection.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>tfhs_minimal</String>
+                                        <String>agrtfhs</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -33,7 +33,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>tfhs_minimal</String>
+                                    <String>agrtfhs</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -51,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/Users/Meredith/Documents/GitHub/TennesseeFarmNews_agrtfn/cleaned_data/remediation_files/splitter.xsl</String>
+                                    <String>${pdu}/Splitter_byPID.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -108,7 +108,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>Saxon-HE</String>
+                                    <String>Saxon-PE</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>
@@ -120,7 +120,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="tfhs.xpr">
+    <projectTree name="agrtfhs.xpr">
         <folder path="."/>
     </projectTree>
 </project>

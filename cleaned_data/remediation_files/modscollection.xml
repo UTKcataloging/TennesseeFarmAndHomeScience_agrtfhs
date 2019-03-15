@@ -515,7 +515,7 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85077784"><topic>Livestock</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85135709"><topic>Tobacco</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85002385"><topic>Agricultural pests</topic></subject>
-<subject><name><namePart>Pendergrass, Webster</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019035103"><name><namePart>Pendergrass, Webster, 1914-1983</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965"><geographic>Tennessee</geographic><cartographics><coordinates>35.75035, -86.25027</coordinates></cartographics></subject>
 <classification authority="lcc">S1 .T43</classification>
 <typeOfResource>text</typeOfResource>
@@ -3198,7 +3198,7 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">0012_004267_000129</identifier>
 <identifier type="pid">agrtfhs:2879</identifier>
@@ -3223,7 +3223,7 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">0012_004267_000130</identifier>
 <identifier type="pid">agrtfhs:2850</identifier>
@@ -3248,7 +3248,7 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">0012_004267_000131</identifier>
 <identifier type="pid">agrtfhs:2797</identifier>
@@ -3273,7 +3273,7 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">0012_004267_000132</identifier>
 <identifier type="pid">agrtfhs:2768</identifier>
@@ -3298,7 +3298,7 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">0012_004267_000133</identifier>
 <identifier type="pid">agrtfhs:2739</identifier>
@@ -3323,7 +3323,7 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">0012_004267_000134</identifier>
 <identifier type="pid">agrtfhs:2706</identifier>
@@ -3348,7 +3348,7 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">0012_004267_000135</identifier>
 <identifier type="pid">agrtfhs:2673</identifier>
@@ -3373,5 +3373,5 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">In Copyright - Educational Use Permitted</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods></modsCollection>

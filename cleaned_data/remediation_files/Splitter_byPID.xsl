@@ -27,6 +27,7 @@
         <xsl:variable name="file-name" select="identifier[@type='pid']"/>
         <xsl:result-document href="{concat('output/',$file-name,'.xml')}">
             <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+                <identifier type="issn">2642-9861</identifier>
                 <xsl:apply-templates/>
             </mods>
         </xsl:result-document>

@@ -20,7 +20,7 @@
 {{if(isBlank(cells["abstract"].value),'', '<abstract>' + cells['abstract'].value + '</abstract>')}}
 <tableOfContents>{{cells['Table_of_Contents'].value}}</tableOfContents>
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells['extent'].value}}</extent></physicalDescription>
-{{if(isBlank(cells['date_year'].value), '', '<originInfo><dateIssued>' + cells['date_year'].value + '</dateIssued><dateIssued encoding="edtf" keyDate="yes">' + cells['date_year'].value + '</dateIssued><publisher>' + cells['publisher'].value + '</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+{{if(isBlank(cells['date_year'].value), '', '<originInfo><dateIssued>' + cells['date_year'].value + '</dateIssued><dateIssued encoding="edtf" keyDate="yes">' + cells['date_edtf'].value + '</dateIssued><publisher>' + cells['publisher'].value + '</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place><issuance>serial</issuance></originInfo>')}}
 <note>{{cells['note'].value}}</note>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114481"><topic>Agriculture--Tennessee</topic></subject>

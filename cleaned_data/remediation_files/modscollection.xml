@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods>
 <identifier type="local">0012_004267_000001</identifier>
 <identifier type="pid">agrtfhs:1027</identifier>
 
@@ -23,9 +24,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000002</identifier>
 <identifier type="pid">agrtfhs:1014</identifier>
 
@@ -49,9 +49,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000003</identifier>
 <identifier type="pid">agrtfhs:1001</identifier>
 
@@ -75,9 +74,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000004</identifier>
 <identifier type="pid">agrtfhs:1248</identifier>
 
@@ -101,9 +99,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000005</identifier>
 <identifier type="pid">agrtfhs:1235</identifier>
 
@@ -127,9 +124,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000006</identifier>
 <identifier type="pid">agrtfhs:1222</identifier>
 
@@ -153,9 +149,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000007</identifier>
 <identifier type="pid">agrtfhs:1209</identifier>
 
@@ -179,9 +174,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000008</identifier>
 <identifier type="pid">agrtfhs:1196</identifier>
 
@@ -205,9 +199,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000009</identifier>
 <identifier type="pid">agrtfhs:1183</identifier>
 
@@ -231,9 +224,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000010</identifier>
 <identifier type="pid">agrtfhs:1170</identifier>
 
@@ -257,9 +249,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000011</identifier>
 <identifier type="pid">agrtfhs:1157</identifier>
 
@@ -283,9 +274,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000012</identifier>
 <identifier type="pid">agrtfhs:1144</identifier>
 
@@ -309,9 +299,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000013</identifier>
 <identifier type="pid">agrtfhs:1131</identifier>
 
@@ -335,9 +324,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000014</identifier>
 <identifier type="pid">agrtfhs:1118</identifier>
 
@@ -361,9 +349,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000015</identifier>
 <identifier type="pid">agrtfhs:1105</identifier>
 
@@ -387,9 +374,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000016</identifier>
 <identifier type="pid">agrtfhs:1092</identifier>
 
@@ -413,9 +399,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000017</identifier>
 <identifier type="pid">agrtfhs:1079</identifier>
 
@@ -439,9 +424,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000018</identifier>
 <identifier type="pid">agrtfhs:1066</identifier>
 
@@ -465,9 +449,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000019</identifier>
 <identifier type="pid">agrtfhs:1053</identifier>
 
@@ -491,9 +474,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000020</identifier>
 <identifier type="pid">agrtfhs:1040</identifier>
 
@@ -517,9 +499,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000021</identifier>
 <identifier type="pid">agrtfhs:2660</identifier>
 
@@ -543,9 +524,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000022</identifier>
 <identifier type="pid">agrtfhs:2647</identifier>
 
@@ -569,9 +549,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000023</identifier>
 <identifier type="pid">agrtfhs:2634</identifier>
 
@@ -595,9 +574,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000024</identifier>
 <identifier type="pid">agrtfhs:2621</identifier>
 
@@ -621,9 +599,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000025</identifier>
 <identifier type="pid">agrtfhs:2604</identifier>
 
@@ -647,9 +624,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000026</identifier>
 <identifier type="pid">agrtfhs:2591</identifier>
 
@@ -673,9 +649,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000027</identifier>
 <identifier type="pid">agrtfhs:2578</identifier>
 
@@ -699,9 +674,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000028</identifier>
 <identifier type="pid">agrtfhs:2565</identifier>
 
@@ -725,9 +699,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000029</identifier>
 <identifier type="pid">agrtfhs:2552</identifier>
 
@@ -751,9 +724,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000030</identifier>
 <identifier type="pid">agrtfhs:2539</identifier>
 
@@ -777,9 +749,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000031</identifier>
 <identifier type="pid">agrtfhs:2526</identifier>
 
@@ -803,9 +774,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000032</identifier>
 <identifier type="pid">agrtfhs:2513</identifier>
 
@@ -829,9 +799,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000033</identifier>
 <identifier type="pid">agrtfhs:2496</identifier>
 
@@ -855,9 +824,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000034</identifier>
 <identifier type="pid">agrtfhs:2483</identifier>
 
@@ -881,9 +849,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000035</identifier>
 <identifier type="pid">agrtfhs:2470</identifier>
 
@@ -907,9 +874,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000036</identifier>
 <identifier type="pid">agrtfhs:2457</identifier>
 
@@ -933,9 +899,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000037</identifier>
 <identifier type="pid">agrtfhs:2444</identifier>
 
@@ -959,9 +924,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000038</identifier>
 <identifier type="pid">agrtfhs:2427</identifier>
 
@@ -985,9 +949,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000039</identifier>
 <identifier type="pid">agrtfhs:2410</identifier>
 
@@ -1011,9 +974,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000040</identifier>
 <identifier type="pid">agrtfhs:2393</identifier>
 
@@ -1037,9 +999,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000041</identifier>
 <identifier type="pid">agrtfhs:2372</identifier>
 
@@ -1063,9 +1024,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000042</identifier>
 <identifier type="pid">agrtfhs:2355</identifier>
 
@@ -1089,9 +1049,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000043</identifier>
 <identifier type="pid">agrtfhs:2338</identifier>
 
@@ -1115,9 +1074,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000044</identifier>
 <identifier type="pid">agrtfhs:2313</identifier>
 
@@ -1141,9 +1099,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000045</identifier>
 <identifier type="pid">agrtfhs:2292</identifier>
 
@@ -1167,9 +1124,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000046</identifier>
 <identifier type="pid">agrtfhs:2275</identifier>
 
@@ -1193,9 +1149,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000047</identifier>
 <identifier type="pid">agrtfhs:2262</identifier>
 
@@ -1219,9 +1174,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000048</identifier>
 <identifier type="pid">agrtfhs:2245</identifier>
 
@@ -1245,9 +1199,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000049</identifier>
 <identifier type="pid">agrtfhs:2224</identifier>
 
@@ -1271,9 +1224,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000050</identifier>
 <identifier type="pid">agrtfhs:2199</identifier>
 
@@ -1297,9 +1249,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000051</identifier>
 <identifier type="pid">agrtfhs:2182</identifier>
 
@@ -1323,9 +1274,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000052</identifier>
 <identifier type="pid">agrtfhs:2165</identifier>
 
@@ -1349,9 +1299,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000053</identifier>
 <identifier type="pid">agrtfhs:2140</identifier>
 
@@ -1375,9 +1324,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000054</identifier>
 <identifier type="pid">agrtfhs:2119</identifier>
 
@@ -1401,9 +1349,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000055</identifier>
 <identifier type="pid">agrtfhs:2098</identifier>
 
@@ -1427,9 +1374,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000056</identifier>
 <identifier type="pid">agrtfhs:2073</identifier>
 
@@ -1453,9 +1399,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000057</identifier>
 <identifier type="pid">agrtfhs:2040</identifier>
 
@@ -1479,9 +1424,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000058</identifier>
 <identifier type="pid">agrtfhs:2019</identifier>
 
@@ -1505,9 +1449,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000059</identifier>
 <identifier type="pid">agrtfhs:1998</identifier>
 
@@ -1531,9 +1474,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000060</identifier>
 <identifier type="pid">agrtfhs:1973</identifier>
 
@@ -1557,9 +1499,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000061</identifier>
 <identifier type="pid">agrtfhs:1936</identifier>
 
@@ -1583,9 +1524,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000062</identifier>
 <identifier type="pid">agrtfhs:1903</identifier>
 
@@ -1609,9 +1549,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000063</identifier>
 <identifier type="pid">agrtfhs:1866</identifier>
 
@@ -1635,9 +1574,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000064</identifier>
 <identifier type="pid">agrtfhs:1837</identifier>
 
@@ -1661,9 +1599,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000065</identifier>
 <identifier type="pid">agrtfhs:1800</identifier>
 
@@ -1687,9 +1624,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000066</identifier>
 <identifier type="pid">agrtfhs:1767</identifier>
 
@@ -1713,9 +1649,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000067</identifier>
 <identifier type="pid">agrtfhs:1730</identifier>
 
@@ -1739,9 +1674,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000068</identifier>
 <identifier type="pid">agrtfhs:1705</identifier>
 
@@ -1765,9 +1699,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000069</identifier>
 <identifier type="pid">agrtfhs:1668</identifier>
 
@@ -1791,9 +1724,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000070</identifier>
 <identifier type="pid">agrtfhs:1627</identifier>
 
@@ -1817,9 +1749,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000071</identifier>
 <identifier type="pid">agrtfhs:1590</identifier>
 
@@ -1843,9 +1774,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000072</identifier>
 <identifier type="pid">agrtfhs:1553</identifier>
 
@@ -1869,9 +1799,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000073</identifier>
 <identifier type="pid">agrtfhs:1512</identifier>
 
@@ -1895,9 +1824,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000074</identifier>
 <identifier type="pid">agrtfhs:1479</identifier>
 
@@ -1921,9 +1849,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000075</identifier>
 <identifier type="pid">agrtfhs:1458</identifier>
 
@@ -1947,9 +1874,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000076</identifier>
 <identifier type="pid">agrtfhs:1417</identifier>
 
@@ -1973,9 +1899,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000077</identifier>
 <identifier type="pid">agrtfhs:1376</identifier>
 
@@ -1999,9 +1924,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000078</identifier>
 <identifier type="pid">agrtfhs:1339</identifier>
 
@@ -2025,9 +1949,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000079</identifier>
 <identifier type="pid">agrtfhs:1302</identifier>
 
@@ -2051,9 +1974,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000080</identifier>
 <identifier type="pid">agrtfhs:1261</identifier>
 
@@ -2077,9 +1999,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000081</identifier>
 <identifier type="pid">agrtfhs:4316</identifier>
 
@@ -2103,9 +2024,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000082</identifier>
 <identifier type="pid">agrtfhs:4279</identifier>
 
@@ -2129,9 +2049,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000083</identifier>
 <identifier type="pid">agrtfhs:4238</identifier>
 
@@ -2155,9 +2074,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000084</identifier>
 <identifier type="pid">agrtfhs:4189</identifier>
 
@@ -2181,9 +2099,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000085</identifier>
 <identifier type="pid">agrtfhs:4148</identifier>
 
@@ -2207,9 +2124,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000086</identifier>
 <identifier type="pid">agrtfhs:4107</identifier>
 
@@ -2233,9 +2149,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000087</identifier>
 <identifier type="pid">agrtfhs:4078</identifier>
 
@@ -2259,9 +2174,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000088</identifier>
 <identifier type="pid">agrtfhs:4057</identifier>
 
@@ -2285,9 +2199,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000089</identifier>
 <identifier type="pid">agrtfhs:4020</identifier>
 
@@ -2311,9 +2224,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000090</identifier>
 <identifier type="pid">agrtfhs:3975</identifier>
 
@@ -2337,9 +2249,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000091</identifier>
 <identifier type="pid">agrtfhs:3926</identifier>
 
@@ -2363,9 +2274,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000092</identifier>
 <identifier type="pid">agrtfhs:3877</identifier>
 
@@ -2389,9 +2299,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000093</identifier>
 <identifier type="pid">agrtfhs:3820</identifier>
 
@@ -2415,9 +2324,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000094</identifier>
 <identifier type="pid">agrtfhs:3771</identifier>
 
@@ -2441,9 +2349,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000095</identifier>
 <identifier type="pid">agrtfhs:3746</identifier>
 
@@ -2467,9 +2374,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000096</identifier>
 <identifier type="pid">agrtfhs:3701</identifier>
 
@@ -2493,9 +2399,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000097</identifier>
 <identifier type="pid">agrtfhs:3664</identifier>
 
@@ -2519,9 +2424,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000098</identifier>
 <identifier type="pid">agrtfhs:3631</identifier>
 
@@ -2545,9 +2449,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000099</identifier>
 <identifier type="pid">agrtfhs:3594</identifier>
 
@@ -2571,9 +2474,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000100</identifier>
 <identifier type="pid">agrtfhs:3577</identifier>
 
@@ -2597,9 +2499,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000101</identifier>
 <identifier type="pid">agrtfhs:3544</identifier>
 
@@ -2623,9 +2524,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000102</identifier>
 <identifier type="pid">agrtfhs:3511</identifier>
 
@@ -2649,9 +2549,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000103</identifier>
 <identifier type="pid">agrtfhs:3478</identifier>
 
@@ -2675,9 +2574,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000104</identifier>
 <identifier type="pid">agrtfhs:3461</identifier>
 <identifier type="extension">E11-0415-00-008-84</identifier>
@@ -2701,9 +2599,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000105</identifier>
 <identifier type="pid">agrtfhs:3428</identifier>
 <identifier type="extension">E11-0415-00-009-84</identifier>
@@ -2727,9 +2624,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000106</identifier>
 <identifier type="pid">agrtfhs:3400</identifier>
 <identifier type="extension">E11-0415-00-013-84</identifier>
@@ -2753,9 +2649,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000107</identifier>
 <identifier type="pid">agrtfhs:3383</identifier>
 <identifier type="extension">E11-0415-00-014-84</identifier>
@@ -2779,9 +2674,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000108</identifier>
 <identifier type="pid">agrtfhs:3363</identifier>
 <identifier type="extension">E11-0415-00-002-85</identifier>
@@ -2805,9 +2699,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000109</identifier>
 <identifier type="pid">agrtfhs:3346</identifier>
 <identifier type="extension">E11-0415-00-004-85</identifier>
@@ -2831,9 +2724,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000110</identifier>
 <identifier type="pid">agrtfhs:3333</identifier>
 <identifier type="extension">E11-0415-00-004-85</identifier>
@@ -2857,9 +2749,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000111</identifier>
 <identifier type="pid">agrtfhs:3320</identifier>
 <identifier type="extension">E11-0415-00-006-85</identifier>
@@ -2883,9 +2774,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000112</identifier>
 <identifier type="pid">agrtfhs:3303</identifier>
 <identifier type="extension">E11-0415-00-010-85</identifier>
@@ -2909,9 +2799,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000113</identifier>
 <identifier type="pid">agrtfhs:3278</identifier>
 <identifier type="extension">E11-0415-00-011-85</identifier>
@@ -2935,9 +2824,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000114</identifier>
 <identifier type="pid">agrtfhs:3253</identifier>
 <identifier type="extension">E11-0415-00-013-85</identifier>
@@ -2961,9 +2849,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000115</identifier>
 <identifier type="pid">agrtfhs:3216</identifier>
 <identifier type="extension">E11-0415-00-001-86</identifier>
@@ -2987,9 +2874,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000116</identifier>
 <identifier type="pid">agrtfhs:3191</identifier>
 <identifier type="extension">E11-0415-00-015-86</identifier>
@@ -3013,9 +2899,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000117</identifier>
 <identifier type="pid">agrtfhs:3166</identifier>
 <identifier type="extension">E11-0415-00-016-86</identifier>
@@ -3039,9 +2924,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000118</identifier>
 <identifier type="pid">agrtfhs:3145</identifier>
 <identifier type="extension">E11-0415-00-002-87</identifier>
@@ -3065,9 +2949,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000119</identifier>
 <identifier type="pid">agrtfhs:3128</identifier>
 <identifier type="extension">E11-0415-00-008-87</identifier>
@@ -3091,9 +2974,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000120</identifier>
 <identifier type="pid">agrtfhs:3103</identifier>
 <identifier type="extension">E11-0415-00-009-87</identifier>
@@ -3117,9 +2999,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000121</identifier>
 <identifier type="pid">agrtfhs:3078</identifier>
 <identifier type="extension">E11-0415-00-013-87</identifier>
@@ -3143,9 +3024,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000122</identifier>
 <identifier type="pid">agrtfhs:3053</identifier>
 <identifier type="extension">E11-0415-00-015-87</identifier>
@@ -3169,9 +3049,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000123</identifier>
 <identifier type="pid">agrtfhs:3008</identifier>
 <identifier type="extension">E11-0415-00-001-88</identifier>
@@ -3195,9 +3074,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000124</identifier>
 <identifier type="pid">agrtfhs:2987</identifier>
 <identifier type="extension">E11-0415-00-002-88</identifier>
@@ -3221,9 +3099,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000125</identifier>
 <identifier type="pid">agrtfhs:2962</identifier>
 <identifier type="extension">E11-0415-00-003-88</identifier>
@@ -3247,9 +3124,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000126</identifier>
 <identifier type="pid">agrtfhs:2937</identifier>
 <identifier type="extension">E11-0415-00-008-88</identifier>
@@ -3273,9 +3149,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000127</identifier>
 <identifier type="pid">agrtfhs:4353</identifier>
 <identifier type="extension">E11-0415-00-015-88</identifier>
@@ -3299,9 +3174,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000128</identifier>
 <identifier type="pid">agrtfhs:2912</identifier>
 <identifier type="extension">E11-0415-00-004-89</identifier>
@@ -3325,9 +3199,8 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Tennessee Farm and Home Science</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
 <identifier type="local">0012_004267_000129</identifier>
 <identifier type="pid">agrtfhs:2879</identifier>
 <identifier type="extension">E11-0415-00-009-89</identifier>
@@ -3352,8 +3225,7 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">0012_004267_000130</identifier>
 <identifier type="pid">agrtfhs:2850</identifier>
 <identifier type="extension">E11-0415-00-012-89</identifier>
@@ -3378,8 +3250,7 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">0012_004267_000131</identifier>
 <identifier type="pid">agrtfhs:2797</identifier>
 <identifier type="extension">E11-0415-00-003-92</identifier>
@@ -3404,8 +3275,7 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">0012_004267_000132</identifier>
 <identifier type="pid">agrtfhs:2768</identifier>
 <identifier type="extension">E11-0415-00-014-90</identifier>
@@ -3430,8 +3300,7 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">0012_004267_000133</identifier>
 <identifier type="pid">agrtfhs:2739</identifier>
 <identifier type="extension">E11-0415-00-007-91</identifier>
@@ -3456,8 +3325,7 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">0012_004267_000134</identifier>
 <identifier type="pid">agrtfhs:2706</identifier>
 <identifier type="extension">E11-0415-00-004-92</identifier>
@@ -3482,8 +3350,7 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">0012_004267_000135</identifier>
 <identifier type="pid">agrtfhs:2673</identifier>
 <identifier type="extension">E11-0415-00-010-92</identifier>
